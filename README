@@ -1,0 +1,4 @@
+Utility scripts to make it easier to move large(ish) sites around on RS ClousSites.
+
+Upload the script to your webserver, hit it with a url and then retrieve the site archive.
+
