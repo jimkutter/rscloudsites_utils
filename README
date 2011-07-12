@@ -2,3 +2,6 @@ Utility scripts to make it easier to move large(ish) sites around on RS ClousSit
 
 Upload the script to your webserver, hit it with a url and then retrieve the site archive.
 
+** WARNING
+** USE THESE SCRIPTS AT YOUR OWN RISK
+** IF YOU DON'T KNOW WHAT YOU ARE DOING, DON'T USE THEM
