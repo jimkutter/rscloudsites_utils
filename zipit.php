@@ -1,7 +1,8 @@
 <?php 
 set_time_limit(300);
 
-system('zip -r site.zip *'); 
-system('zip site.zip .htaccess'); // hidden files too 
+$filename = md5(time()) . '.zip';
+system('zip -r '.$filename.' *'); 
+system('zip '.$filename.' .htaccess'); // hidden files too 
 
 unlink(__FILE__);
