@@ -1,6 +1,10 @@
-Utility scripts to make it easier to move large(ish) sites around on RS ClousSites.
+Utility scripts to make it easier to move large(ish) sites around on RS CloudSites.
 
 Upload the script to your webserver, hit it with a url and then retrieve the site archive.
+
+Notes
+
+These scripts require the CloudSite to use PHP as it's underlying technology.
 
 ** WARNING
 ** USE THESE SCRIPTS AT YOUR OWN RISK
